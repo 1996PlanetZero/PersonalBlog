@@ -9,6 +9,6 @@ features:
   details: 技术分享
 - title: Sparkling Thoughts
   details: 人生感悟
-  footer: Welcome to Zlp Space!
+  footer: Welcome to Zlp Space!   
 
 ---
