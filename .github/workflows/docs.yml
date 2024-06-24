@@ -21,7 +21,7 @@ jobs:
         uses: actions/setup-node@v4
         with:
           # 选择要使用的 node 版
-          node-version: "14"a
+          node-version: "14"
 
       # 缓存 node_modules
       - name: Cache dependencies
