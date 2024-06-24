@@ -1,4 +1,5 @@
 module.exports = {
+    base:"/PersonalBlog/",
     title: "Zlp Space",
     description: "Remember all the sparkling points in your life",
     markdown: {
